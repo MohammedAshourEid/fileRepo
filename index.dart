@@ -2,6 +2,7 @@ void main(){
     print("Hello, This is Mohammed");
     print("The area is ${getArea(5, 7)}");
     print("The circmfirance is ${getCircomfirance(5, 7)}");
+    print("See you later!");
 }
 
 double getArea(double len, double wid){
